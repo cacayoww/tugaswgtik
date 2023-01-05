@@ -1,0 +1,10 @@
+# depslib dependency file v1.0
+1667902476 source:c:\users\yuyun\documents\caca\struktur data\c++\cll_dll\cll_dll\cll_dll.cpp
+	"cll_dll.h"
+
+1667900332 c:\users\yuyun\documents\caca\struktur data\c++\cll_dll\cll_dll\cll_dll.h
+	<iostream>
+
+1667904146 source:c:\users\yuyun\documents\caca\struktur data\c++\cll_dll\cll_dll\main.cpp
+	"cll_dll.h"
+
